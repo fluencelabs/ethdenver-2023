@@ -16,7 +16,7 @@ With the Fluence's decentralized FaaS stack, which is comprised of an open, perm
 
 For the hackathon, Fluence is providing an [fRPC](./fRPC-Starter) substrate ready to use in your dApps.
 
-### Put the **d** back in dApp with fRPC -- 20 x USDC 250.00
+### Use fRPC to connect your dApp to blockchain -- 20 x USDC 250.00
 
 Use the [fRPC-Starter](./fRPC-Starter/) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP to stay WEB3.
 
