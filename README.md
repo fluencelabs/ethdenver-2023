@@ -34,12 +34,12 @@ The fRPC substrate provided is currently not integrated into the leading WEB3 fr
 // setup your fRPC provider with the necessary urls, api keys and quorum parameters either in code or via env or config file(s)
 const web3 = new Web3(Web3.fRPC);
 // ...
-// do something with the web3 response 
+// do something with the web3 response which now includes quorum information
 ```
 
 to enable a seamless decentralized developer experience.
 
-USDC 3,0000 and USDC 2,000 are available for the best two integrations for **each** of
+USDC 3,0000 and USDC 2,000 are available for the best two integrations of fRPC with **each** of the following wallet SDKs:
 
 * [web js](https://github.com/web3/web3.js)
 * [ethers](https://github.com/ethers-io/ethers.js/)
