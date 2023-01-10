@@ -20,12 +20,6 @@ For the hackathon, Fluence is providing an [fRPC](./fRPC-Starter) substrate read
 
 Use the [fRPC-Starter](./fRPC-Starter/) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP to stay WEB3.
 
-### fRPC Improvements -- USDC 2500, USDC 1,000, USDC 500
-
-Think you can improve on fRPC substrate such as alternative quorum processes? Go ahead! Three prices for the good (USDC 500), better (USDC 1,000) and best (USDC 1,500) improvement proposals and corresponding implementations for fRPC are up for grabs.
-
-Provide your code, ample and generous documentation, a dockerized demo of your solution and a one to three minute video describing your improvements.
-
 ### Wallet Native fRPC -- USDC 15,000
 
 The fRPC substrate provided is currently not integrated into the leading WEB3 frameworks. We want you to change that! Specifically, we want you to take the [fRPC substrate](./fRPC-Starter/) and integrate it into the (middleware of the) leading wallet sdks as a parameterizable API choice, e.g.:
@@ -37,7 +31,7 @@ const web3 = new Web3(Web3.fRPC);
 // do something with the web3 response which now includes quorum information
 ```
 
-to enable a seamless decentralized developer experience.
+to enable a seamless decentralized developer experience. Use [Fluence-JS](https://github.com/fluencelabs/fluence-js) to support your SDK integration.
 
 USDC 3,0000 and USDC 2,000 are available for the best two integrations of fRPC with **each** of the following wallet SDKs:
 
