@@ -4,7 +4,11 @@ Welcome to what will undoubtedly amount  to yet another awesome EthDenver event.
 
 ## About Fluence
 
-Evgeny: do you have the overview section we can copy-paste from  or link?
+Fluence is a decentralized serverless platform & computing marketplace powered by blockchain economics. Fluence is a global, permissionless, scalable, and secure alternative to centralized cloud computing platforms.
+
+Using Fluence, developers can build and deploy natively decentralized applications to a network of compute providers where providers range from professional data centers to home computers. Providers compete on price and performance and constantly prove that they serve applications to earn rewards.
+
+Fluence is powered by a cryptographic token which serves as both collateral for provider participation and as a monetary incentive. Providers earn both the Fluence token and payment origin (usually stablecoin) for serving applications.
 
 ## Hacking On Fluence
 
