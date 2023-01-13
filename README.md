@@ -1,6 +1,6 @@
 # Fluence ETHDenver 2023 Hackathon
 
-Welcome to what will undoubtedly amount  to yet another awesome EthDenver event. Fluence Labs' 2023 hackathon is all about keeping your dApps decentralized with decentralized RPC. To this end, Fluence is offering a total of USDC XXX in bounties.
+Welcome to what will undoubtedly amount  to yet another awesome EthDenver event. Fluence Labs' 2023 hackathon is all about keeping your dApps decentralized with decentralized RPC. To this end, Fluence is offering a total of USDC 11,000 in bounties.
 
 ## About Fluence
 
@@ -20,7 +20,7 @@ With the Fluence's decentralized FaaS stack, which is comprised of an open, perm
 
 For the hackathon, Fluence is providing an [fRPC](./fRPC-Starter) substrate ready to use in your dApps.
 
-### Use fRPC to connect your dApp to blockchain -- 20 x USDC 250.00
+### Use fRPC to connect your dApp to Blockchain -- 20 x USDC 250.00
 
 Use the [fRPC-Starter](./fRPC-Starter/) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP to stay decentralized.
 
