@@ -22,28 +22,19 @@ For the hackathon, Fluence is providing an [fRPC](./fRPC-Starter) substrate read
 
 ### Put the **d** back in dApp with fRPC -- 20 x USDC 250.00
 
-Use the [fRPC-Starter](./fRPC-Starter/) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP to stay WEB3.
+Use the [fRPC-Starter](./fRPC-Starter/) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP to stay decentralized.
 
-### Wallet Native fRPC -- USDC 15,000
+### Improve fRPC -- USDC 3,000, 2,000, 1,000
 
-The fRPC substrate provided is currently not integrated into the leading WEB3 frameworks. We want you to change that! Specifically, we want you to take the [fRPC substrate](./fRPC-Starter/) and integrate it into the (middleware of the) leading wallet sdks as a parameterizable API choice, e.g.:
+Improve the [fRPC Starter](./fRPC-Starter/) substrate to make it more general, robust or performant. Improvements which may include
 
-```js
-// setup your fRPC provider with the necessary urls, api keys and quorum parameters either in code or via env or config file(s)
-const web3 = new Web3(Web3.fRPC);
-// ...
-// do something with the web3 response which now includes quorum information
-```
+* expanding the available set of blockchain API providers, i.e., Infura, Alchemy, and Link
+* creating an fRPC "balancer" for real-time blockchain API provider selection according to discriminators such as geolocation, reputation or availability
+* adding additional RPC methods to accommodate specific or custom EVM implementations
+* supporting different API key submissions mechanisms such as a string in the request header 
 
-to enable a seamless decentralized developer experience. Use [Fluence-JS](https://github.com/fluencelabs/fluence-js) to support your SDK integration.
+Prices of USDC 3,000, USDC 2,000 and USDC 1,000 are available for best three submissions. Please fork [fRPC Starter](./fRPC-Starter/), generously document your solution, provide a dockerized demo of your solution and provide a three to five minute video shilling your masterpiece.    
 
-USDC 3,0000 and USDC 2,000 are available for the best two integrations of fRPC with **each** of the following wallet SDKs:
-
-* [web js](https://github.com/web3/web3.js)
-* [ethers](https://github.com/ethers-io/ethers.js/)
-* [wagmi](https://wagmi.sh/)
-
-In addition to your forked and improved SDK code, please provide ample and generous documentation, a dockerized demo of your solution for the `eth_blockNumber` and `eth_sendRawTransaction` for an EVM testnet of your choice and a three to five minute video shilling your project.
 
 ### Rules
 
