@@ -1,6 +1,6 @@
 # Fluence ETHDenver 2023 Hackathon
 
-Welcome to what will undoubtedly amount  to yet another awesome EthDenver event. Fluence Labs' 2023 hackathon is all about keeping your dApps decentralized with decentralized RPC. To this end, Fluence is offering a total of USDC 26,000 in bounties.
+Welcome to what will undoubtedly amount  to yet another awesome EthDenver event. Fluence Labs' 2023 hackathon is all about keeping your dApps decentralized with decentralized RPC. To this end, Fluence is offering a total of USDC 11,000 in bounties.
 
 ## About Fluence
 
@@ -20,18 +20,19 @@ With the Fluence's decentralized FaaS stack, which is comprised of an open, perm
 
 For the hackathon, Fluence is providing RPC starter code called [fRPC](./fRPC-Starter) that is ready to use in your dApps.
 
-### Use fRPC to connect your dApp to Blockchain -- 20 x USDC 1,000.00
+### Use fRPC to connect your dApp to Blockchain -- 5 x USDC 1,000.00
 
 Use the [fRPC-Starter](./fRPC-Starter/) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP stay decentralized.
 
-In case of more than 20 eligible submissions, both the extensiveness of the use of fRPC in your dApp and timestamp of submission are additional judging criteria.
+
+For the purpose of this bounty, a dApp has to have a backend, i.e., deployed (testnet) contract(s), and perform meaningful work. That is, submissions simply enumerating and exercising some or all of the fRPC methods are not eligible for a reward. In case of more than 20 eligible submissions, both the extensiveness of the use of fRPC in your dApp and timestamp of submission are additional judging criteria.
 
 ### Improve fRPC -- USDC 3,000, 2,000, 1,000
 
 Improve the [fRPC Starter](./fRPC-Starter/) substrate to make it more general, robust or performant. Improvements which may include
 
 * expanding the available set of blockchain API providers, i.e., Infura, Alchemy, and Link
-* creating an fRPC "balancer" for real-time blockchain API provider selection according to discriminators such as geolocation, reputation or availability
+* creating an fRPC "balancer" for real-time blockchain API provider selection according to discriminators such as geo-location, reputation or availability
 * adding additional RPC methods to accommodate specific or custom EVM implementations
 * supporting different API key submissions mechanisms such as a string in the request header 
 
