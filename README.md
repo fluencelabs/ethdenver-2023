@@ -25,7 +25,7 @@ For the hackathon, Fluence is providing RPC starter code called [fRPC](./fRPC-St
 Use the [fRPC-Starter](./fRPC-Starter/) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP stay decentralized.
 
 
-For the purpose of this bounty, a dApp has to have a backend, i.e., deployed (testnet) contract(s), and perform meaningful work. That is, submissions simply enumerating and exercising some or all of the fRPC methods are not eligible for a reward. In case of more than 20 eligible submissions, both the extensiveness of the use of fRPC in your dApp and timestamp of submission are additional judging criteria.
+For the purpose of this bounty, a dApp has to have a backend, i.e., deployed (testnet) contract(s), and perform meaningful work. That is, submissions simply enumerating and exercising some or all of the fRPC methods are not eligible for a reward. In case of more than five eligible submissions, both the extensiveness of the use of fRPC in your dApp and timestamp of submission are additional judging criteria.
 
 ### Improve fRPC -- USDC 3,000, 2,000, 1,000
 
