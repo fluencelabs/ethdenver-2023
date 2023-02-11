@@ -45,7 +45,7 @@ The official [ETHDenver rules](https://www.ethdenver.com/) apply.
 
 ## Workshop
 
-An in-person [workshop](./Workshop/) is scheduled for March 1, 2023, 1 pm - 2:30 pm at the Vib Hotel Conference Room at 3560 Brighton Boulevard Denver, CO 80216. For updates, please subscribe to the [Fluence discord](https://fluence.chat) channel.
+An in-person [workshop](./Workshop/) is scheduled for March 1, 2023, 1:00 pm - 2:30 pm at the Vib Hotel Conference Room at 3560 Brighton Boulevard Denver, CO 80216. For updates, please subscribe to the [Fluence discord](https://fluence.chat) channel.
 
 ## Miscellaneous Resources
 
