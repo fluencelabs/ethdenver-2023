@@ -22,7 +22,7 @@ For the hackathon, Fluence is providing RPC starter code called [fRPC](./fRPC-St
 
 ### Use fRPC to connect your dApp to Blockchain -- 5 x USDC 1,000.00
 
-Use the [fRPC-Starter](./fRPC-Starter/) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP stay decentralized.
+Use the [fRPC-Starter](https://github.com/fluencelabs/fRPC-Substrate) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP stay decentralized.
 
 
 For the purpose of this bounty, a dApp has to have a backend, i.e., deployed (testnet) contract(s), and perform meaningful work. That is, submissions simply enumerating and exercising some or all of the fRPC methods are not eligible for a reward. In case of more than five eligible submissions, both the extensiveness of the use of fRPC in your dApp and timestamp of submission are additional judging criteria.
