@@ -22,7 +22,7 @@ For the hackathon, Fluence is providing RPC starter code called [fRPC](./fRPC-St
 
 ### Use fRPC to connect your dApp to Blockchain -- 5 x USDC 1,000.00
 
-Use the [fRPC-Starter](https://github.com/fluencelabs/fRPC-Substrate) code in your dAPP instead of using one centralized RPC SaaS and submit your repo, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP stay decentralized.
+Use the [fRPC-Starter](https://github.com/fluencelabs/fRPC-Substrate) code in your dAPP instead of using one centralized RPC SaaS and submit your repo including the contract address you received from `fluence deal deploy`, a dockerized demo of your dAPP and a 60 to 90 second video how fRPC has helped your dAPP stay decentralized.
 
 
 For the purpose of this bounty, a dApp has to have a backend, i.e., deployed (testnet) contract(s), and perform meaningful work. That is, submissions simply enumerating and exercising some or all of the fRPC methods are not eligible for a reward. In case of more than five eligible submissions, both the extensiveness of the use of fRPC in your dApp and timestamp of submission are additional judging criteria.
@@ -36,7 +36,7 @@ Improve the [fRPC Starter](./fRPC-Starter/) substrate to make it more general, r
 * adding additional RPC methods to accommodate specific or custom EVM implementations
 * supporting different API key submissions mechanisms such as a string in the request header 
 
-Prices of USDC 3,000, USDC 2,000 and USDC 1,000 are available for best three submissions. Please fork [fRPC Starter](./fRPC-Starter/), generously document your solution, provide a dockerized demo of your solution and provide a three to five minute video shilling your masterpiece.    
+Prices of USDC 3,000, USDC 2,000 and USDC 1,000 are available for best three submissions. Please fork [fRPC Starter](./fRPC-Starter/), generously document your solution including the contract address you received from `fluence deal deploy`, provide a dockerized demo of your solution and provide a three to five minute video shilling your masterpiece.    
 
 
 ### Rules
