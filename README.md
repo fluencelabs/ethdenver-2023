@@ -18,7 +18,7 @@ With the Fluence's decentralized FaaS stack, which is comprised of an open, perm
 
 ## Bounties
 
-For the hackathon, Fluence is providing RPC starter code called [fRPC](./fRPC-Starter) that is ready to use in your dApps.
+For the hackathon, Fluence is providing RPC starter code called [fRPC](https://github.com/fluencelabs/frpc-substrate) that is ready to use in your dApps.
 
 ### Use fRPC to connect your dApp to Blockchain -- 5 x USDC 1,000.00
 
@@ -29,14 +29,14 @@ For the purpose of this bounty, a dApp has to have a backend, i.e., deployed (te
 
 ### Improve fRPC -- USDC 3,000, 2,000, 1,000
 
-Improve the [fRPC Starter](./fRPC-Starter/) substrate to make it more general, robust or performant. Improvements which may include
+Improve the [fRPC Starter](https://github.com/fluencelabs/frpc-substrate) substrate to make it more general, robust or performant. Improvements which may include
 
 * expanding the available set of blockchain API providers, i.e., Infura, Alchemy, and Link
 * creating an fRPC "balancer" for real-time blockchain API provider selection according to discriminators such as geo-location, reputation or availability
 * adding additional RPC methods to accommodate specific or custom EVM implementations
 * supporting different API key submissions mechanisms such as a string in the request header 
 
-Prices of USDC 3,000, USDC 2,000 and USDC 1,000 are available for best three submissions. Please fork [fRPC Starter](./fRPC-Starter/), generously document your solution including the contract address you received from `fluence deal deploy`, provide a dockerized demo of your solution and provide a three to five minute video shilling your masterpiece.    
+Prices of USDC 3,000, USDC 2,000 and USDC 1,000 are available for best three submissions. Please fork [fRPC Starter](https://github.com/fluencelabs/frpc-substrate), generously document your solution including the contract address you received from `fluence deal deploy`, provide a dockerized demo of your solution and provide a three to five minute video shilling your masterpiece.    
 
 
 ### Rules
